@@ -23,7 +23,7 @@
                             </LinearGradientBrush>
                         </Border.BorderBrush>
                     </Border>
-                    <TextBlock Margin="10, 0, 0, 0" FontWeight="Bold" Text ="수업파일이 등록되어있지 않습니다." x:Name="top_title" Foreground="#FFFFD053" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock Margin="10, 0, 0, 0" FontWeight="Bold" Text ="수업 파일이 등록되어있지 않습니다." x:Name="top_title" Foreground="#FFFFD053" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                 </Grid>
 
 

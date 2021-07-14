@@ -54,7 +54,8 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>KakaoTalk_20210713_121159641_04 %283%29.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
@@ -294,21 +295,6 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="KakaoTalk_20210713_121159641_04 %282%29.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="KakaoTalk_20210713_121159641_04 %281%29.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="KakaoTalk_20210713_121159641_04 %283%29.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="title.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="sucle_3_KuL_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
