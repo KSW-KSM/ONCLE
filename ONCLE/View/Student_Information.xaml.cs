@@ -51,7 +51,7 @@ namespace ONCLE.View
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBoxResult result = MessageBox.Show("해당파일을 정말로 삭제하시겠습니까\"?", "삭제 메세지", MessageBoxButton.YesNo);
+            MessageBoxResult result = MessageBox.Show("해당 반을 정말로 삭제하시겠습니까\"?", "삭제 메세지", MessageBoxButton.YesNo);
             switch (result)
             {
                 case MessageBoxResult.Yes:

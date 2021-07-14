@@ -210,7 +210,7 @@
 
             <TextBlock
                                Margin="65,270,0,0"
-                               Text="출석 파일이 올라와 있다면, &#10;해당 파일과 반 정보를 기반으로 &#10;출석부가 나타납니다."
+                               Text="채팅 로그를 올려주시면,&#10;해당 파일을 분석해 키워드 검색,&#10;참여도를 확인할 수 있습니다."
                                Foreground="White"
                                FontSize="11"
                                Background="Transparent"
@@ -228,7 +228,7 @@
 
             <TextBlock
                                Margin="65,130,0,0"
-                               Text="채팅 로그를 올려주시면,&#10;해당 파일을 분석해 키워드 검색,&#10;참여도를 확인할 수 있습니다."
+                               Text="출석 파일이 올라와 있다면, &#10;해당 파일과 반 정보를 기반으로 &#10;출석부가 나타납니다."
                                Foreground="White"
                                FontSize="11"
                                Background="Transparent"
@@ -248,7 +248,7 @@
 
             <TextBlock
                                Margin="65,0,0,15"
-                               Text="개발: 이천제일고등학교 강성우 &#10;Mail: aqaq030924@gmail.com &#10;오픈소스: KM_KW개발홈"
+                               Text="개발: 이천제일고등학교 강성우 &#10;Mail: aqaq030924@gmail.com &#10;GitHub: KSW-KSM/ONCLE"
                                Foreground="#FF5D5D5D"
                                FontSize="10"
                                Background="Transparent"
@@ -569,7 +569,7 @@
                                 </Style>
                             </RadioButton.Style>
 
-                            <iconPacks:PackIconMaterial Kind="ChartBar" Foreground="Wheat" Height="50" Width="50" BorderThickness="3" Margin="0,2,0,0"/>
+                            <iconPacks:PackIconMaterial Kind="CheckBold" Foreground="Wheat" Height="50" Width="50" BorderThickness="3" Margin="0,2,0,0"/>
 
                             <RadioButton.Resources>
                                 <Style TargetType="{x:Type Border}">
